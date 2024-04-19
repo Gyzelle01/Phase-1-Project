@@ -1,0 +1,25 @@
+{
+    "location": [
+      {
+        "id": "1",
+        "City": "Nairobi",
+        "office": "https://www.google.com/search?q=green+house+ngong&oq=green+house+ngong&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTINCAEQLhivARjHARiABDIHCAIQABiABDIICAMQABgWGB4yCggEEAAYDxgWGB4yCAgFEAAYFhgeMg0IBhAAGIYDGIAEGIoFMg0IBxAAGIYDGIAEGIoFMg0ICBAAGIYDGIAEGIoF0gEJMTU1OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+        "Address": "MJ4M+GVP, Ngong",
+ } ]
+ 
+      },
+ {
+  "data":[
+    {
+      "type":"articles",
+      "id":"1",
+      "attributes"{
+        "type":"working with JSON Data in Javascript",
+        "created":"2024-4-17:09:34",
+        "updated":"2024-4-19:08:00",
+        "name":"Gyzelle",
+      },
+      
+    }
+  ]
+ }     
